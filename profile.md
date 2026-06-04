@@ -20,6 +20,13 @@
 
 ## 目前進度
 - **模塊 A（AI 基礎）：** ❌ 未完成 — 已了解 LLM/Prompt/Context 基本概念，需補齊 RAG、Agent、Frameworks、MCP、Evaluation
-- **模塊 B（Web3 基礎）：** ❌ 未開始
+- **模塊 B（Web3 基礎）：** 🟡 進行中 — Day 6~8 已讀：密碼學 ✅、錢包 ✅、智能合約 ✅
 - **模塊 C（AI × Web3 Bridge）：** ❌ 未開始
 - **模塊 D（前沿探索）：** ❌ 未開始
+
+### 模塊 B 細項進度
+- [x] Day 6：密碼學（Hash、ECC、數位簽章）
+- [x] Day 7：錢包（Wallet 類型、HD 架構、助記詞、EOA vs CA）
+- [x] Day 8：智能合約（Solidity、EVM、ABI、Event、Upgrade、呼叫流程）
+- [x] Day 9：開發棧（Dev Stack）
+- [ ] Day 10+：網路（Network）、AA、DeFi、Oracle、Indexing、Security
