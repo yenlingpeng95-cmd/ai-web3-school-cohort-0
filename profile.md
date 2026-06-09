@@ -19,8 +19,8 @@
 - **興趣賽道：** AI × Web3 Bridge、Agent Wallet、AI Security
 
 ## 目前進度
-- **模塊 A（AI 基礎）：** ❌ 未完成 — 已了解 LLM/Prompt/Context 基本概念，需補齊 RAG、Agent、Frameworks、MCP、Evaluation
-- **模塊 B（Web3 基礎）：** 🟡 進行中 — Day 6~8 已讀：密碼學 ✅、錢包 ✅、智能合約 ✅
+- **模塊 A（AI 基礎）：** ✅ 已完成 — LLM / Prompt / Context / 複習
+- **模塊 B（Web3 基礎）：** 🟡 進行中 — Day 6~9 完成，Day 10 網路待補
 - **模塊 C（AI × Web3 Bridge）：** ❌ 未開始
 - **模塊 D（前沿探索）：** ❌ 未開始
 
@@ -29,4 +29,5 @@
 - [x] Day 7：錢包（Wallet 類型、HD 架構、助記詞、EOA vs CA）
 - [x] Day 8：智能合約（Solidity、EVM、ABI、Event、Upgrade、呼叫流程）
 - [x] Day 9：開發棧（Dev Stack）
-- [ ] Day 10+：網路（Network）、AA、DeFi、Oracle、Indexing、Security
+- [ ] Day 10：網路（Network）— L1 vs L2、主網 vs 測試網、RPC
+- [ ] Day 11+：AA、DeFi、Oracle、Indexing、Security
